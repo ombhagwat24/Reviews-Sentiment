@@ -16,3 +16,6 @@
 
 ## `Correlation Matrix`
 <p align="center"> <img width="80%" alt="image" src="https://user-images.githubusercontent.com/94888819/179727975-1dc784f1-6f2f-45c3-a961-05a3b55cadb5.png">
+
+## `histogram`
+<p align="center"> <img width="80%" alt="image" src="https://user-images.githubusercontent.com/94888819/179728927-af0ae128-d061-44a6-94d9-b96e89bbcda3.png">
