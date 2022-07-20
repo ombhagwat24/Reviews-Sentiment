@@ -10,6 +10,8 @@
 <p align="left"> <img src="https://user-images.githubusercontent.com/94888819/179723238-7ae4f5c3-6b7b-42ba-8b01-11e7cd1e73cf.png" alt="info" width="40%" >  <img align="right" width="22%" alt="image" src="https://user-images.githubusercontent.com/94888819/179723883-1670d181-9579-4eb9-aa95-4665c7682df1.png">
 </p>
 
+# `Insights`
+
 ## `Pie Chart`
 <p align="center"> <img width="50%" alt="image" src="https://user-images.githubusercontent.com/94888819/179725874-4ab75254-3206-4f33-bcbc-fab57a4ed5a8.png">
 </p>
